@@ -22,4 +22,5 @@ To run this script requires some dependencies:
 	4. xlrd - use > sudo easy_install xlrd
 
 KNOWN ISSUES
+Kayla is an issue
 Do not use spaces in header row of test.xlsx file, or it will throw an error.
